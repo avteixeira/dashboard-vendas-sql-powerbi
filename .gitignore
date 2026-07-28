@@ -1,0 +1,12 @@
+# Arquivos temporários do Power BI
+~$*.pbix
+*.pbix.lock
+*.tmp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações locais de editor
+.vscode/
+.idea/
