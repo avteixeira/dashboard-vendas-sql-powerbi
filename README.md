@@ -35,6 +35,6 @@ SQL (tratamento e preparação dos dados) e Power BI (modelagem, DAX, visualiza�
     └── README.md
 
 ## Prints do dashboard
-![Visão executiva](imagem/visao-executiva.jpeg)
-![Produtos e vendedores](imagem/produtos-vendedores.jpeg)
+![Visão executiva](imagem/visãoexecutiva.jpeg)
+![Produtos e vendedores](imagem/analise-deprodutos.jpeg)
 ![Metas e simulações](imagem/metas-simulacoes.jpeg)
